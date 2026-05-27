@@ -5,9 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/SilasAngare1">
-    <img src="https://img.shields.io/github/followers/SilasAngare1?label=Followers&style=for-the-badge" />
-  </a>
   <img src="https://img.shields.io/badge/Focus-QA%20%26%20Automation-blue?style=for-the-badge" />
 </p>
 
@@ -18,7 +15,7 @@
 * Entusiasta de QA e Testes de Software
 * Estudando programação e tecnologia
 * Experiência com JavaScript, Java, Postman, Kanban e fluxos de testes
-* 10 anos de estudos de inglês no Yazigi
+* Curso de programacao no Canadá e inglês fluente
 * Interesse em qualidade de software, automação, games e tecnologia
 * Formação em Análise e Desenvolvimento de Sistemas (ADS) pela FIAP
 
