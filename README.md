@@ -1,11 +1,13 @@
- <h1 align="center">Olá, eu sou o Silas 👋</h1>
+<h1 align="center">Olá, eu sou o Silas 👋</h1>
 
 <p align="center">
   🎯 QA & Software Testing • 💻 Desenvolvimento • 🚀 Tecnologia
 </p>
 
 <p align="center">
-
+  <a href="https://github.com/SilasAngare1">
+    <img src="https://img.shields.io/github/followers/SilasAngare1?label=Followers&style=for-the-badge" />
+  </a>
   <img src="https://img.shields.io/badge/Focus-QA%20%26%20Automation-blue?style=for-the-badge" />
 </p>
 
@@ -16,7 +18,7 @@
 * Entusiasta de QA e Testes de Software
 * Estudando programação e tecnologia
 * Experiência com JavaScript, Java, Postman, Kanban e fluxos de testes
-* Curso de programacao no Canadá e inglês fluente
+* 10 anos de estudos de inglês no Yazigi
 * Interesse em qualidade de software, automação, games e tecnologia
 * Formação em Análise e Desenvolvimento de Sistemas (ADS) pela FIAP
 
@@ -45,9 +47,11 @@
 ![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge)
 
+---
 
-###🎓 Formação
-Análise e Desenvolvimento de Sistemas (ADS) — FIAP
+## 🎓 Formação
+
+* Análise e Desenvolvimento de Sistemas (ADS) — FIAP
 
 ---
 
@@ -63,11 +67,8 @@ Análise e Desenvolvimento de Sistemas (ADS) — FIAP
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SilasAngare1&layout=compact&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SilasAngare1&show_icons=true&theme=tokyonight"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SilasAngare1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilasAngare1&layout=compact&langs_count=7&theme=tokyonight" />
 </div>
 
 ---
