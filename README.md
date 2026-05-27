@@ -63,7 +63,7 @@
 
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SilasAngare1&layout=compact&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SilasAngare1&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SilasAngare1&show_icons=true&theme=tokyonight"/>
 
 </div>
 
