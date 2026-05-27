@@ -1,13 +1,11 @@
-<h1 align="center">Olá, eu sou o Silas 👋</h1>
+ <h1 align="center">Olá, eu sou o Silas 👋</h1>
 
 <p align="center">
   🎯 QA & Software Testing • 💻 Desenvolvimento • 🚀 Tecnologia
 </p>
 
 <p align="center">
-  <a href="https://github.com/SilasAngare1">
-    <img src="https://img.shields.io/github/followers/SilasAngare1?label=Followers&style=for-the-badge" />
-  </a>
+
   <img src="https://img.shields.io/badge/Focus-QA%20%26%20Automation-blue?style=for-the-badge" />
 </p>
 
