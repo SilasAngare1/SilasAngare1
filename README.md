@@ -18,6 +18,7 @@
 * Experiência com JavaScript, Java, Postman, Kanban e fluxos de testes
 * Curso de programacao no Canadá e inglês fluente
 * Interesse em qualidade de software, automação, games e tecnologia
+* Formação em Análise e Desenvolvimento de Sistemas (ADS) pela FIAP
 
 ---
 
@@ -43,6 +44,10 @@
 
 ![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge)
+
+
+###🎓 Formação
+Análise e Desenvolvimento de Sistemas (ADS) — FIAP
 
 ---
 
