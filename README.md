@@ -16,7 +16,7 @@
 * Entusiasta de QA e Testes de Software
 * Estudando programação e tecnologia
 * Experiência com JavaScript, Java, Postman, Kanban e fluxos de testes
-* 10 anos de estudos de inglês no Yazigi
+* Curso de programacao no Canada e ingles fluente
 * Interesse em qualidade de software, automação, games e tecnologia
 
 ---
